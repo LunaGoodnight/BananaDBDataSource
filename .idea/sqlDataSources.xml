@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="cb494b5b-f742-49cb-9481-a0f7f0ff1c0d" name="DDL Mapping">
+      <data-sources db="01664f5d-d653-4a25-87aa-cb634af6b656" ddl="f77542f0-4067-4a07-91cb-1a670725d257" />
+      <scope>
+        <node kind="database" qname="master">
+          <node kind="schema" qname="dbo" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="f77542f0-4067-4a07-91cb-1a670725d257" />
+          <option name="name" value="Microsoft SQL Server LocalDB (DDL)" />
+          <option name="languageId" value="TSQL" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
